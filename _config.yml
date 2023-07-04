@@ -1,3 +1,6 @@
 title: Masato Tsuru
 email: koiandtsuru<at>yahoo.co.jp
 theme: minima
+
+title: { { page.title } }
+description: { { page.description } }
