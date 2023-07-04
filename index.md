@@ -8,9 +8,18 @@ description: self introduction page
 
 [![](https://img.youtube.com/vi/G4TL71bgmY4/0.jpg)](https://www.youtube.com/watch?v=G4TL71bgmY4)
 
-My robot can move without pre-fixed maps.
+[![](https://img.youtube.com/vi/eNSgVcE5eg4/0.jpg)](https://www.youtube.com/watch?v=eNSgVcE5eg4)
+
+[![](https://img.youtube.com/vi/2rr84jnez4k/0.jpg)](https://www.youtube.com/watch?v=2rr84jnez4k)
+
+[![](https://img.youtube.com/vi/q-xpZdomM0k/0.jpg)](https://www.youtube.com/watch?v=q-xpZdomM0k)
+
+My robot can move while mapping and online motion planning.
+
 
 [YouTube](https://www.youtube.com/@masatotsuru558)
+
+
 
 # Career
 
