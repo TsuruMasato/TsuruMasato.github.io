@@ -1,4 +1,5 @@
 theme: minima
-
+title: Masato Tsuru
+email: koiandtsuru<at>yahoo.co.jp
 title: { { page.title } }
 description: { { page.description } }
