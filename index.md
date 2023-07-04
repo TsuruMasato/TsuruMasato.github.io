@@ -1,6 +1,4 @@
 
-# Masato Tsuru, Ph.D student, Japan
-
 [![](https://img.youtube.com/vi/G4TL71bgmY4/0.jpg)](https://www.youtube.com/watch?v=G4TL71bgmY4)
 
 [![](https://img.youtube.com/vi/eNSgVcE5eg4/0.jpg)](https://www.youtube.com/watch?v=eNSgVcE5eg4)
