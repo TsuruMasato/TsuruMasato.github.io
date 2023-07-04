@@ -17,7 +17,6 @@ My robot can autonomously move with mapping and online motion planning, for radi
 
 
 # 学歴
-* 1996年4月 兵庫県生まれ
 * 2009年4月 - 2015年3月 私立 大阪明星学園中学・高等学校
 * 2015年3月 - 2019年3月 国立 大阪大学 基礎工学部 システム科学科
 * 2019年4月 - 2021年3月 国立 大阪大学大学院 基礎工学研究科 システム創生専攻 修士(工学)(指導:原田研介教授)
@@ -35,7 +34,6 @@ My robot can autonomously move with mapping and online motion planning, for radi
 
 
 # Educational Background
-* 1996.Apr Born in Hyogo Pref., Japan
 * 2009.Apr - 2015.Mar Osaka Meisei Gakuen (Middle) High School, Osaka, Japan
 * 2015.Apr - 2019.Mar School of Engineering Science, Osaka University, Japan
 * 2019.Apr - 2021.Mar Master course in Graduate School of Engineering Science, Osaka University, Japan (Kensuke Harada Laboratory)
