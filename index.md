@@ -1,8 +1,3 @@
----
-layout: default
-title: Autonomous Humanoid Robot with Computer Vision
-description: self introduction page
----
 
 # Masato Tsuru, Ph.D student, Japan
 
