@@ -10,7 +10,7 @@ description: self introduction page
 
 My robot can move without pre-fixed maps.
 
-https://www.youtube.com/@masatotsuru558
+[YouTube](https://www.youtube.com/@masatotsuru558)
 
 # Career
 
