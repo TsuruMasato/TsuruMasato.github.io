@@ -1,4 +1,4 @@
-地震被災地、放射能汚染領域、途上国、月面など、地図なし・通信不安定な状況下でも自律活動が可能なAI搭載ロボットの研究・開発を人生の目標としています。
+地震被災地、放射能汚染領域、途上国、月面など、地図なし・通信不安定な状況下でも自律活動を可能とするため、AI搭載型ロボットの研究・開発を人生の目標としています。
 
 My robot can autonomously move with mapping and online motion planning, for radiation environments, under-developing area, or Lunar.
 
