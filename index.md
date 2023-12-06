@@ -28,7 +28,8 @@ My robot can autonomously move with mapping and online motion planning, for radi
 
 # 研究成果
 * [Online Object Searching by a Humanoid Robot in an Unknown Environment](https://ieeexplore.ieee.org/document/9361266)
-* その他受賞歴などあり。
+* [Online Multi-Contact Motion Replanning for Humanoid Robots with Semantic 3D Voxel Mapping: ExOctomap](https://www.mdpi.com/2541886)
+* その他学会での口頭発表・受賞歴複数
 
 ---
 
