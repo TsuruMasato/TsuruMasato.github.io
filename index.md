@@ -59,5 +59,5 @@ By thoroughly speeding up all processes, my humanoid robot system is able to nav
 
 # Publication
 * [Online Object Searching by a Humanoid Robot in an Unknown Environment](https://ieeexplore.ieee.org/document/9361266)
-
+* [Online Multi-Contact Motion Replanning for Humanoid Robots with Semantic 3D Voxel Mapping: ExOctomap](https://www.mdpi.com/2541886)
 
