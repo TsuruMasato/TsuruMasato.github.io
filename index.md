@@ -1,9 +1,19 @@
 地震被災地、放射能汚染領域、途上国、月面など、地図なし・通信不安定な状況下でも自律活動を可能とするため、AI搭載型ロボットの研究・開発を人生の目標としています。
 
+研究の最大の特徴は、徹底的な高速化によって3D視覚センシングと動作計画を同時並列で行っている事です。
+
+これにより、ドローンや外部固定カメラでの事前地形スキャンを必要とせず、ロボットが単身で未知環境へ突入できます。
+
 My robot can autonomously move with mapping and online motion planning, for radiation environments, under-developing area, or Lunar.
 
+The epic feature of my researches is simultanious 3D recognition and motion planning. Everything works online.
 
-[![](https://img.youtube.com/vi/G4TL71bgmY4/0.jpg)](https://www.youtube.com/watch?v=G4TL71bgmY4)
+By thoroughly speeding up all processes, my humanoid robot system is able to navigate unknown environments by itself, without any pre-scanning by aerial drones or external cameras.
+
+
+[![](https://img.youtube.com/vi/-vjrfDbgqIA/0.jpg)](https://www.youtube.com/watch?v=-vjrfDbgqIA)
+
+[![](https://img.youtube.com/vi/a1Q6IB2DRes/0.jpg)](https://www.youtube.com/watch?v=a1Q6IB2DRes)
 
 [![](https://img.youtube.com/vi/eNSgVcE5eg4/0.jpg)](https://www.youtube.com/watch?v=eNSgVcE5eg4)
 
