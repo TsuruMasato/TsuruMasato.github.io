@@ -1,4 +1,7 @@
-#
+---
+layout: home
+title: false
+---
 
 # Torque-controlled Centroidal Dynamics QP-MPC
 
