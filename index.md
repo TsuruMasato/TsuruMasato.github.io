@@ -1,6 +1,6 @@
 ---
 layout: home
-title: false
+title: CV
 ---
 
 # Torque-controlled Centroidal Dynamics QP-MPC
