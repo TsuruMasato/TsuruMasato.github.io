@@ -1,3 +1,12 @@
+# Torque-controlled Centroidal Dynamics QP-MPC
+
+https://github.com/user-attachments/assets/a152aae0-6b8b-4e89-af88-f11c0ad82967
+
+![ロボメカ_ポスター_画像](https://github.com/user-attachments/assets/23b9208f-6ab5-4e69-8811-1c1754d7faff)
+
+
+# 3D Vision Recognition and Online Motion Planning
+
 地震被災地、放射能汚染領域、途上国、月面など、地図なし・通信不安定な状況下でも自律活動を可能とするため、AI搭載型ロボットの研究・開発を人生の目標としています。
 
 研究の最大の特徴は、徹底的な高速化によって3D視覚センシングと動作計画を同時並列で行っている事です。
@@ -30,13 +39,15 @@ By thoroughly speeding up all processes, my humanoid robot system is able to nav
 * 2009年4月 - 2015年3月 私立 大阪明星学園中学・高等学校
 * 2015年3月 - 2019年3月 国立 大阪大学 基礎工学部 システム科学科
 * 2019年4月 - 2021年3月 国立 大阪大学大学院 基礎工学研究科 システム創生専攻 修士(工学)(指導:原田研介教授)
-* 2021年4月 - 2024年3月(予定) 国立 大阪大学大学院 基礎工学研究科 システム創生専攻 博士(工学)(指導:原田研介教授)
+* 2021年4月 - 2024年3月 国立 大阪大学大学院 基礎工学研究科 システム創生専攻 博士(工学)(指導:原田研介教授)
 
 # 経歴
 * 2019年10月 - 2024年3月 独立行政法人 産総研 情報・人間工学領域 AIST-CNRS Joint Robotics Lab.(JRL)
 * 2022年4月 - 2024年3月 日本学術振興会(JSPS) 特別研究員 DC2
-
+* 2024年4月 -  トヨタ自動車株式会社 未来創生センター
+  
 # 研究成果
+* 脚トルク制御とCentroidal Dynamics MPCに基づくヒューマノイドロボットの運動制御 (ロボティクス・メカトロニクス講演会2025)
 * [Online Object Searching by a Humanoid Robot in an Unknown Environment](https://ieeexplore.ieee.org/document/9361266)
 * [Online Multi-Contact Motion Replanning for Humanoid Robots with Semantic 3D Voxel Mapping: ExOctomap](https://www.mdpi.com/2541886)
 * その他学会での口頭発表・受賞歴複数
@@ -54,10 +65,10 @@ By thoroughly speeding up all processes, my humanoid robot system is able to nav
 
 * 2019.Oct - 2024.Mar AIST-CNRS Joint Robotics Lab., AIST, Japan
 * 2022.Apr - 2024.Mar JSPS Young Fellow DC2
-
+* 2024.Apr - Toyota Motor Coop. Frontier Research Center
 
 
 # Publication
 * [Online Object Searching by a Humanoid Robot in an Unknown Environment](https://ieeexplore.ieee.org/document/9361266)
 * [Online Multi-Contact Motion Replanning for Humanoid Robots with Semantic 3D Voxel Mapping: ExOctomap](https://www.mdpi.com/2541886)
-
+* and so on
