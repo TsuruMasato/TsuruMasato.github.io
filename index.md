@@ -1,6 +1,8 @@
 # Torque-controlled Centroidal Dynamics QP-MPC
 
-https://github.com/user-attachments/assets/a152aae0-6b8b-4e89-af88-f11c0ad82967
+<video width="640" height="360">
+  <source src="../video/robomech2025_video_compressed.mp4" type="video/mp4">
+</video>
 
 ![ロボメカ_ポスター_画像](https://github.com/user-attachments/assets/23b9208f-6ab5-4e69-8811-1c1754d7faff)
 
